@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Arial, Helvetica, sans-serif;
+}
+
+/*banner*/
+
+
+.black{
+    width: 100%;
+     background:black;
+     text-align: center;
+     color: white;
+     padding: 60px
+
+}
+
+/*tres cajas*/
+.naranja {
+    width: 100%;
+     background: orange;
+     text-align: center;
+     padding: 40px;
+}
+
+/*dos cajas*/
+.Amarillo {
+    width: 100%;
+     background: yellow;
+     text-align: center;
+     padding: 40px;
+}     
+
+/*segundo banner*/
+.blue {
+     background: blue;
+     text-align: center;
+     padding: 60px  ;
+}
+
+/* tercer banner*/
+.purple {
+     background: peru;
+     text-align: center;
+     padding: 60px  ;
+}
+
+/*tres circulos*/
+.morado {
+    width: 100%;
+     background: purple;
+     text-align: center;
+     padding: 40px;
+
+}
+
+.altura3 {
+ height: 200px;
+ border-radius: 50%;
+ width: 50%;
+ margin: 0% auto;
+ font-family: 'Courier New', Arial, Helvetica, sans-serif;
+
+}
+
+/*final*/
+.red {
+    width: 100%;
+     background: red;
+     text-align: center;
+}
